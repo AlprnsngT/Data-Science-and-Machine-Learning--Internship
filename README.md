@@ -1,4 +1,4 @@
-## Energy Consumption Insights Analysis and Prediction
+# Energy Consumption Insights Analysis and Prediction
 This repository contains the "Energy Consumption Insights Analysis and Prediction" project, which was developed as part of my internship. Please note that due to the sensitive nature of the data used in this project (proprietary company data), only the code files are provided here.
 
 ## Table of Contents
@@ -20,15 +20,15 @@ Develop machine learning models for predicting energy consumption.
 Gain insights into energy usage trends and anomalies.
 Repository Structure
 
-# Usage
+## Usage
 Clone the repository to your local machine.
 Explore the code files in the code directory.
 [Note: Data files are not provided in this repository due to sensitivity.]
 
-# Disclaimer
+## Disclaimer
 The data used in this project is proprietary and confidential company information. Therefore, the repository contains only the code files to showcase the project's implementation.
 
 Please contact the project owner or the company for more information about the project and its findings.
 
-# Contact
+## Contact
 For inquiries or collaboration opportunities, feel free to contact me at alperensongut@gmail.com.
